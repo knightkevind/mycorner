@@ -4,7 +4,7 @@ date: '2022-06-10'
 tags: ['hello']
 draft: false
 summary: Welcome to my corner
-images: []
+images: ['https://mycorner.vercel.app/_next/image?url=%2Fstatic%2Fimages%2Focean.jpeg&w=3840&q=75']
 ---
 
 Welcome to my corner, happy weekend!
