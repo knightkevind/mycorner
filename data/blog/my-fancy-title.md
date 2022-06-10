@@ -3,7 +3,7 @@ title: My fancy title
 date: '2022-06-10'
 tags: ['hello']
 draft: false
-summary:
+summary: Welcome to my corner
 images: []
 ---
 
