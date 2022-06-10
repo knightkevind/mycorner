@@ -3,8 +3,8 @@ title: 《亦来云CR委员节点全权托管服务协议》
 date: '2022-06-10'
 tags: ['hello']
 draft: false
-summary:
-images: []
+summary:CR委员节点全权托管服务是向已当选的亦来云CR委员，提供委员节点的云服务租赁、节点搭建、日常升级及运维管理等系列工作的一站式专项服务。
+images: [https://www.cyberrepublic.org/static/media/cr-main.bc91a565.png]
 ---
 
 ## 《亦来云CR委员节点全权托管服务协议》
@@ -67,9 +67,7 @@ Email：hosting@gelaxy.io
 4.4 支付方式：
 
 甲方应于本协议签订之日起，     日内一次性支付所有费用。
-
 乙方指定的 TRC20 收款钱包地址为：
-
 TV8zgFadiVnFdcxZ8rMFbkAsKkeEZrMZRf 
 
 ### 第五条 系统中断或故障
@@ -130,6 +128,8 @@ e. 其它非因乙方原因导致的紧急情况。
 委托人签字：
 
 日期：       年    月    日
+
+
 
 
 乙方：Smartweb Ltd
